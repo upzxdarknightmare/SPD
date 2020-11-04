@@ -1,4 +1,5 @@
 # Dynamic drop down list and display product Version 1.0
+After you dowloaded you can create DB name Test01 and upload my sql file and let test
 Free code to use If I have time to develop, I will continue to develop it.
 Language PHP,HTML,AJAX
 
