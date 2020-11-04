@@ -1,7 +1,9 @@
 # Dynamic drop down list and display product Version 1.0
-After you dowloaded you can create DB name Test01 and upload my sql file and let test
+<b>After you dowloaded you can create DB name Test01 and upload my sql file to test</b>
+<br>
 Free code to use If I have time to develop, I will continue to develop it.
-Language PHP,HTML,AJAX
+<br>
+Language using PHP,HTML,AJAX
 
 Search product by dynamic drop down list and display picture from database with link not from folder you can modifly to use with folder because in my office they want to use <b>"URL LINK"</b>
 <br/>
